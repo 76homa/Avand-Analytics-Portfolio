@@ -1,0 +1,1 @@
+Here you can see a collection of the projects I worked on during my time at Avand Company, including data analysis codes and reports, Power BI dashboards, SQL models, and automation tools that supported sales.
